@@ -1,9 +1,6 @@
 # 🛡️ VPN Bot — Автоматизированный Telegram-сервис продаж VPN (3x-ui)
 
-![Python](https://shields.io)
-![Aiogram](https://shields.io)
-![Docker](https://shields.io)
-![PostgreSQL](https://shields.io)
+<code>🐍 Python 3.11+</code> &nbsp;&nbsp;•&nbsp;&nbsp; <code>🤖 Aiogram 3.x</code> &nbsp;&nbsp;•&nbsp;&nbsp; <code>🐳 Docker Ready</code> &nbsp;&nbsp;•&nbsp;&nbsp; <code>🐘 PostgreSQL</code>
 
 ---
 
