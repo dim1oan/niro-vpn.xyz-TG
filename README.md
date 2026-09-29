@@ -1,17 +1,15 @@
 # 🛡️ VPN Bot — Автоматизированный Telegram-сервис продаж VPN (3x-ui)
 
-<p align="center">
-  <img src="https://shields.io" alt="Python">
-  <img src="https://shields.io" alt="Aiogram">
-  <img src="https://shields.io" alt="Docker">
-  <img src="https://shields.io" alt="License">
-</p>
+![Python](https://shields.io)
+![Aiogram](https://shields.io)
+![Docker](https://shields.io)
+![PostgreSQL](https://shields.io)
 
 ---
 
 **VPN Bot** — это стабильное, готовое к коммерческому использованию (*production-ready*) решение для автоматической продажи безопасного **VLESS + Reality** доступа. 
 
-Бот спроектирован по принципу децентрализации: он не управляет вашим сервером напрямую, а безопасно взаимодействует с ним через **HTTP API панели [3x-ui](https://github.com/MHSanaei/3x-ui)**. Все операции по созданию, продлению и контролю лимитов пользователей полностью автоматизированы.
+Бот спроектирован по принципу децентрализации: он не управляет вашим сервером напрямую, а безопасно взаимодействует с ним через **HTTP API панели [3x-ui](https://github.com)**. Все операции по созданию, продлению и контролю лимитов пользователей полностью автоматизированы.
 
 ---
 
